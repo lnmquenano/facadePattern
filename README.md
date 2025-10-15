@@ -15,4 +15,4 @@ The <strong>Simplified Hotel Management System</strong> HotelApp needs to manage
 </ul>
 
 <h3>UML Class Diagram:</h3>
-<img width="2764" height="2130" alt="SHMS_UML" src="https://github.com/user-attachments/assets/663a7263-7726-4d0d-8645-4d66a0ec16ae" />
+<img width="2818" height="2168" alt="SHMS_UML" src="https://github.com/user-attachments/assets/c976efe8-445d-4c61-9574-7ea3b11f4ba8" />
