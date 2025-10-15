@@ -6,6 +6,6 @@ public class Cart implements HotelService {
     }
 
     void requestCart(int numberOfCarts) {
-        System.out.println("Received " + numberOfCarts + " luggage cart/s.");
+        System.out.println("Handled " + numberOfCarts + " luggage cart/s.");
     }
 }
